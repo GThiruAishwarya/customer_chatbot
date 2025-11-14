@@ -102,7 +102,7 @@ Frontend runs at:
 
 ## 🗄️ Database
 
-Your project uses an SQLite database `faq.db` with predefined FAQs:
+ project uses an SQLite database `faq.db` with predefined FAQs:
 
 | Question                       | Answer |
 | ------------------------------ | ------ |
