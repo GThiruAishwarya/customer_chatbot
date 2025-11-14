@@ -142,18 +142,3 @@ Watch the working demo of the chatbot below:
 * Very fast vector search
 
 ---
-
-## 📌 Future Improvements
-
-* Add full-fledged RAG with documents
-* Add chat history
-* Add admin panel to add/remove FAQs
-* Deploy on Render / Railway
-
----
-
-## 🧑‍💻 Author
-
-**Aishwarya Yadav Gotte**
-AI/ML Enthusiast | Python Developer | LLMs | FastAPI | Vector Databases
-
